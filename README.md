@@ -1,9 +1,9 @@
 ### Hi there 👋
 Welcome and have a seat! Well as you can see, still some way to go on building this lovely portfolio up... 🥰
 
-[![langs-stats](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=hilbert-yaa&langs_count=10&layout=compact&theme=vue-dark)](https://github.com)
-
 [![wakatime-stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime/?username=Hilbert&layout=compact&theme=vue-dark)](https://github.com)
+
+[![langs-stats](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=hilbert-yaa&langs_count=10&layout=compact&theme=vue-dark)](https://github.com)
 
 
 <!--
