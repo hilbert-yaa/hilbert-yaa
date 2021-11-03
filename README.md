@@ -6,20 +6,22 @@
 
 * 🔮 An Arch Linux and Emacs user & an open-source advocate🙋‍♂️.
 
-* 🥰 My current interest lies in compilers, ML and HPC.
+* 🥰 My current interest lies in compiler design, ML and HPC.
 
 <h3>🏢 I'm current working with these organizatoins</h3>
 
-* @hazelgrove Future-of-Programming Lab at UMich
+* @hazelgrove FP-Lab at UMich 
 
 * @SJTU-VEX Robotics Club at SJTU
 
-* @SJTU-UMJI-Tech Student Union at JI-SJTU
+* @SJTU-UMJI-Tech Student Union at UM-SJTU Joint Institute
 
 <h3>🌱 I'm current learning these courses</h3>
 
 * EECS 545 Machine Learning
-* EECS 498 Applied Parallel Programming
+* EECS 490 Programming Languages[Audit.]
+* EECS 498 Applied Parallel Programming w/ GPUs
+* EECS 470 Computer Architecture
 * EECS 370 Computer Organization
 * EECS 281 Data Structures and Algorithms
   
