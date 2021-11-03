@@ -49,15 +49,10 @@
 
 <h3>🕑 Some stats, dash duck!</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilbert-Yaa&hide=TeX,Cmake,Makefile&layout=compact&hide_border=true&card_width=300&theme=vue)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hilbert-Yaa&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&line_height=24&theme=vue)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hilbert-Yaa&count_private=true&show_icons=true&include_all_commits=true&&hide=issues,stars&hide_border=false&line_height=30)
+![WakaTime Stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=Hilbert&hide=JSON&langs_count=6)
 
-<!-- ### Hi there 👋
-Welcome and have a seat! Well as you can see, still some way to go on building this lovely portfolio up... 🥰
 
-[![wakatime-stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime/?username=Hilbert&layout=compact&theme=vue-dark)](https://github.com)
-
-[![langs-stats](https://github-readme-stats-peach-two.vercel.app/api/top-langs/?username=hilbert-yaa&langs_count=10&layout=compact&theme=vue-dark)](https://github.com) -->
 <h3>📫 How to reach me:</h3>
 <p>
   <a href="cyaa@umich.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/mail-red?&style=for-the-badge&logo=google&logoColor=white" /></a> 
