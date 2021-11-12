@@ -50,7 +50,7 @@
 <h3>🕑 Some stats, dash duck!</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hilbert-Yaa&count_private=true&show_icons=true&include_all_commits=true&&hide=issues,stars&hide_border=false&line_height=30)
-![WakaTime Stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=Hilbert&hide=JSON&langs_count=6)
+![WakaTime Stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=Hilbert&hide=JSON,Makefile,Shell&langs_count=8)
 
 
 <h3>📫 How to reach me:</h3>
