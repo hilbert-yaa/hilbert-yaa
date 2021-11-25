@@ -21,7 +21,7 @@
 * EECS 545 Machine Learning
 * EECS 490 Programming Languages[Audit.]
 * EECS 498 Applied Parallel Programming w/ GPUs
-* EECS 470 Computer Architecture
+* ELE  475 Computer Architecture[@Stanford]
 * EECS 370 Computer Organization
 * EECS 281 Data Structures and Algorithms
   
