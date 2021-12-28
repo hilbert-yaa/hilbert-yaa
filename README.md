@@ -8,7 +8,7 @@
 
 * 🥰 My current interest lies in compiler design, ML and HPC.
 
-<h3>🏢 I'm current working with these organizatoins</h3>
+<h3>🏢 I'm current working with</h3>
 
 * @hazelgrove FP-Lab at UMich 
 
@@ -16,7 +16,7 @@
 
 * @SJTU-UMJI-Tech Student Union at UM-SJTU Joint Institute
 
-<h3>🌱 I'm current learning these courses</h3>
+<h3>🌱 I'm current learning</h3>
 
 * EECS 545 Machine Learning
 * EECS 490 Programming Languages[Audit.]
