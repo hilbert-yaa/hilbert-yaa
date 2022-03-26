@@ -2,11 +2,11 @@
 
 <h3>👨‍🎓I'm Hilbert Chen,</h3>
 
-* 🎓 A dual-degree ECE & CS undergrad at SJTU and UMich, Ann Arbor.
+* 🎓 A ECE & CS UG student at SJTU and UMich, Ann Arbor.
 
 * 🔮 An Arch Linux and Emacs user & an open-source advocate🙋‍♂️.
 
-* 🥰 My current interest lies in HPC, ML and PL.
+* 🥰 My current research interest lies in Arch, PL and ML.
 
 <h3>🏢 I'm currently working with</h3>
 
