@@ -6,7 +6,7 @@
 
 * 🔮 An Arch Linux and Emacs user & an open-source advocate🙋‍♂️.
 
-* 🥰 My current research interest lies in Arch, PL and ML.
+* 🥰 My current research interest lies in Arch, PL and System for ML.
 
 <h3>🏢 I'm currently working with</h3>
 
