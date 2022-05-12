@@ -18,9 +18,9 @@
 
 <h3>🌱 I'm learning</h3>
 
-* EECS 482 Operating Systems w/ Advanced OS Projects
-* EECS 490 Programming Languages
-* EECS 498 Deep Learning in Computer Vision[Audit.]
+* EECS 470 Computer Architecture
+* EECS 483 Compiler Construction
+* EECS 591 Advanced Distributed Systems
 * ELE  475 Computer Architecture[@Stanford]
   
 <h3>⚡ I'm currently familiar with or learning</h3>
