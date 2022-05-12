@@ -8,11 +8,11 @@
 
 * 🥰 My current research interest lies in Arch, PL and System for ML.
 
-<h3>🏢 I'm currently working with</h3>
+<h3>🏢 I'm currently working in(with)</h3>
 
-* @hazelgrove FP-Lab at UMich 
+* @efeslab EFES-Lab at UMich-CSE
 
-* @SJTU-VEX Robotics Club at SJTU
+* @hazelgrove FP-Lab at UMich-CSE
 
 * @SJTU-UMJI-Tech Student Union of UMJI
 
