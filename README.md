@@ -2,13 +2,15 @@
 
 <h3>👨‍🎓I'm Hilbert Chen,</h3>
 
-* 🎓 A ECE & CS UG student at SJTU and UMich, Ann Arbor.
+* 🎓 An undergrad stupid nerd(2019-2023). | ECE @ SJTU and CSE @ UMich.
 
-* 🔮 An Arch Linux and Emacs user & an open-source advocate🙋‍♂️.
+* 👨‍🔬 A student researcher with 💙 in Computer Arch & Programming Lang.
 
-* 🥰 My current research interest lies in Arch, PL and System for ML.
+* 🔮 A Garuda Linux and Emacs user & FPL advocate🙋‍♂️.
 
-<h3>🏢 I'm currently working in(with)</h3>
+* 🥰 My current research interest lies in **Data-Center Services, Parallel & Distributed Arch, ML4Sys, and Gradual Typing.**
+
+<h3>🏢 I'm currently working at(or with)</h3>
 
 * @efeslab EFES-Lab at UMich-CSE
 
@@ -19,7 +21,7 @@
 <h3>🌱 I'm learning</h3>
 
 * EECS 470 Computer Architecture
-* EECS 483 Compiler Construction
+* CS  6120 Advanced Compilers γ[@Cornell]
 * EECS 591 Advanced Distributed Systems
 * ELE  475 Computer Architecture[@Stanford]
   
@@ -30,8 +32,8 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
 
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,16 +47,16 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-<h3>🕑 Some stats, dash duck!</h3>
+<!-- <h3>🕑 Some stats, dash duck!</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hilbert-Yaa&count_private=true&show_icons=true&include_all_commits=true&&hide=issues,stars&hide_border=false&line_height=30)
 
-![WakaTime Stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=Hilbert&hide=JSON,Makefile,Shell&langs_count=7)
+![WakaTime Stats](https://github-readme-stats-peach-two.vercel.app/api/wakatime?username=Hilbert&hide=JSON,Makefile,Shell&langs_count=7) -->
 
 
 <h3>📫 How to reach me:</h3>
 <p>
-  <a href="cyaa@umich.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/mail-red?&style=for-the-badge&logo=google&logoColor=white" /></a> 
+  <a href="hilbert.yaa@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/mail-red?&style=for-the-badge&logo=google&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/hilbert-chen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Hilbert-Yaa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
