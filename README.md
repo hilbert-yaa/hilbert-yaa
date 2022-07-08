@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<h3>👨‍🎓I'm Hilbert Chen,</h3>
+<h3>👨‍🎓This is Hilbert,</h3>
 
 * 🎓 An undergrad stupid nerd(2019-2023) | ECE @ SJTU and CSE @ UMich.
 
