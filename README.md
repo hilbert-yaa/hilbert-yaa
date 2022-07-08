@@ -2,7 +2,7 @@
 
 <h3>👨‍🎓I'm Hilbert Chen,</h3>
 
-* 🎓 An undergrad stupid nerd(2019-2023). | ECE @ SJTU and CSE @ UMich.
+* 🎓 An undergrad stupid nerd(2019-2023) | ECE @ SJTU and CSE @ UMich.
 
 * 👨‍🔬 A student researcher with 💙 in Computer Arch & Programming Lang.
 
