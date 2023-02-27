@@ -2,21 +2,23 @@
 
 <h3>👨‍🎓This is Hilbert,</h3>
 
-* 🎓 An undergrad stupid nerd(2019-2023) | ECE @ SJTU and CSE @ UMich.
+* 🎓 An Undergrad student studying abroad, with dual degree in ECE @ SJTU and CS @ UMich.
 
-* 👨‍🔬 A student researcher with 💙 in Computer Arch & Programming Lang.
+* 🌟 An incoming Ph.D. researcher in SysArch @ CMU | UIUC | EPFL | GaTech, with 💙 in designs crossing the computing stack.
 
-* 🔮 A Garuda Linux and Emacs user & FPL advocate🙋‍♂️.
+* 🔮 An Arch Linux and Emacs user & Rustacean 🦀.
 
-* 🥰 My current research interest lies in **Data-Center Services, Parallel & Distributed Arch, ML4Sys, and Gradual Typing.**
+* 🥰 My current research interest lies in **SysArch Co-Optimizations at Scale, Extended GPGPU Architectures, Data-Centric Systems, ML4Sys**.
 
-<h3>🏢 I'm currently working at(or with)</h3>
+<h3>🏢 I've been working with</h3>
 
-* @efeslab EFES-Lab at UMich-CSE
+* PlatformX Research Group @ UIUC
 
-* @hazelgrove FP-Lab at UMich-CSE
+* EFES-Lab @ UMich & STAR-Lab @ CMU
 
-* @SJTU-UMJI-Tech Student Union of UMJI
+* CE-Lab @ UMich
+
+* FP-Lab @ UMich
 
 <h3>🌱 I'm learning</h3>
 
