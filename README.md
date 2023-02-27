@@ -8,7 +8,7 @@
 
 * 🔮 An Arch Linux and Emacs user & Rustacean 🦀.
 
-* 🥰 My current research interest lies in **SysArch Co-Optimizations at Scale, Extended GPGPU Architectures, Data-Centric Systems, ML4Sys**.
+* 🥰 My past n current research interest lies in **SysArch Co-Optimizations at Scale, Extended GPGPU Architectures, Near-data Processing, Sys4ML, Gradual Typing**.
 
 <h3>🏢 I've been working with</h3>
 
@@ -23,30 +23,16 @@
 <h3>🌱 I'm learning</h3>
 
 * EECS 470 Computer Architecture
-* CS  6120 Advanced Compilers γ[@Cornell]
-* EECS 591 Advanced Distributed Systems
-* ELE  475 Computer Architecture[@Stanford]
+* CS  6120 Advanced Compilers γ @ Cornell
+* EECS 598 Data-centric Systems
   
 <h3>⚡ I'm currently familiar with or learning</h3>
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/cuda-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-
-
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-GCP-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 <!-- <h3>🕑 Some stats, dash duck!</h3>
