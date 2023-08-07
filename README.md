@@ -4,7 +4,7 @@
 
 * 🎓 An Undergrad student studying abroad, with dual degree in ECE @ SJTU and CS @ UMich.
 
-* 🌟 An incoming Ph.D. researcher in SysArch @ CMU | UIUC | EPFL | GaTech, with 💙 in designs crossing the computing stack.
+* 🌟 An incoming Ph.D. researcher in SysArch @ CMU, with 💙 in designs crossing the computing stack.
 
 * 🔮 An Arch Linux and Emacs user & Rustacean 🦀.
 
