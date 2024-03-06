@@ -8,19 +8,9 @@
 
 * 🔮 An Arch Linux and Emacs user & Rustacean 🦀.
 
-<h3>🏢 I work with</h3>
-
-* CAOS-Group @ CMU
-
-* EFES-Lab @ UMich & STAR-Lab @ CMU
-
-* CE-Lab @ UMich
-
-* FP-Lab @ UMich
-
 <h3>🌱 I'm learning</h3>
 
-* Kernel Development
+* Kernel Memory Management
 * Convex Optimization
 * Barista Craft ☕
 
