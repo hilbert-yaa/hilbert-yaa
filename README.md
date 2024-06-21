@@ -10,8 +10,8 @@
 
 <h3>🌱 I'm learning</h3>
 
-* Kernel Memory Management
-* Convex Optimization
+* Linux Kernel Hacking
+* Novel Virtual Memory Design
 * Barista Craft ☕
 
 <h3>📫 How to reach me:</h3>
